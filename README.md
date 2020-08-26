@@ -4,7 +4,7 @@
 
 Dependencies  
 1. Ubuntu 12.05 x86 (x64 may work with the right libs)
-2. Packages: build-essential git subversion
+2. Packages: build-essential git subversion automake perl
 3. A bash script located at /bin/arch containing:  
 #!/bin/bash  
 uname -m  
