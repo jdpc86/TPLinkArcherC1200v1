@@ -11,3 +11,6 @@ uname -m
 
 Build Instructions  
 1. Run ./build.sh
+
+Downloaded xz-5.0.4.tar.bz2 from source forge
+Downloaded mklibs_0.1.34.tar.gz from github
